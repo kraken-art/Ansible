@@ -6,4 +6,4 @@
   tasks:
   - name: Crear archivo
     file: "/tmp/prueba.txt"
-    state: touch
+    state: "touch"
